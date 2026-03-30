@@ -1,0 +1,7 @@
+{
+  "prompt": "Aerial orthographic data-art visualization of tropical deforestation, styled as a high-resolution topographic map. The composition is dominated by a deep emerald-green forest canopy that is being systematically fragmented by a precise, geometric Voronoi pattern of pale, sun-bleached bone-white sand. This is not a simple split; the white sand veins expand outward from a central point like a crystalline growth, claiming exactly 25% of the frame in a measurable, mathematical fractal. The remaining forest islands are perfectly circular, suggesting a controlled scientific experiment rather than a natural landscape. Shot from a high-altitude satellite perspective with zero perspective distortion (flat 2D plane). Lighting is harsh, overhead noon sun creating high-contrast black shadows in the cracks. Mood: clinical, cold, irreversible mathematical decay. Color palette: Deep Malachite green, stark Ivory, and Obsidian shadows. No text, no labels, no legends, no icons.",
+  "model": "DALL-E 3 via OpenAI / Banana (Gemini Imagen)",
+  "dataset_name": "PRODES Amazon Deforestation Monitoring",
+  "dataset_url": "https://terrabrasilis.dpi.inpe.br/downloads/",
+  "insight": "Brazil lost approximately 400,000 km² of Amazon rainforest between 2000 and 2020 — an area larger than Germany."
+}
