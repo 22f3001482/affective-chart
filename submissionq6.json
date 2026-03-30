@@ -1,0 +1,6 @@
+{
+  "prompt": "An aerial orthographic photograph of a physical landscape where a dense, multi-layered tropical forest is being systematically compressed into a flat, two-dimensional geometric plane. On the left, the forest is organic and deep; on the right, it has been reduced to a skeletal, ivory-colored Voronoi grid that captures only the essential coordinates of the original system. The transition is a physical process of simplification and mapping. Shot from a high-altitude satellite perspective with zero perspective distortion. Harsh, clinical overhead sun creating high-contrast black shadows in the cracks. Color palette: Deep Malachite green and stark Ivory. No text, no diagrams, no labels, no non-physical elements.",
+  "model": "DALL-E 3 via OpenAI / Banana (Gemini Imagen)",
+  "concept": "Dimensionality Reduction",
+  "metaphor": "A dense, high-dimensional forest is physically projected onto a 2D plane, where complex organic structures are simplified into a lean geometric grid that preserves only core spatial relationships."
+}
