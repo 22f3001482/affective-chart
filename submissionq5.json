@@ -1,0 +1,8 @@
+{
+  "prompt": "An aerial orthographic data-art visualization of Amazonian deforestation, styled as a high-resolution topographic map. The composition features a lush, organic dark emerald-green forest canopy on the left that is being aggressively consumed by a clinical, geometric Voronoi pattern of sun-bleached bone-white sand on the right. This transition represents the systematic fragmentation of the ecosystem, where organic life is literally 'fractured' into isolated, sterile geometric cells. The remaining forest islands are perfectly circular, suggesting a controlled loss. Shot from a high-altitude satellite perspective with zero perspective distortion (flat 2D plane). Lighting is harsh, overhead noon sun creating high-contrast black shadows in the cracks. Color palette: Deep Malachite green, stark Ivory, and Obsidian shadows. No text, no labels, no legends, no icons.",
+  "model": "DALL-E 3 via OpenAI / Banana (Gemini Imagen)",
+  "dataset_name": "PRODES Amazon Deforestation Monitoring",
+  "dataset_url": "https://terrabrasilis.dpi.inpe.br/downloads/",
+  "insight": "The systematic fragmentation of the Amazon: over two decades, organic biodiversity has been mathematically fractured into sterile, isolated geometric 'islands' of survival.",
+  "publish_email": true
+}
