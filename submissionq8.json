@@ -1,0 +1,9 @@
+{
+  "prompt": "A conceptual data-art piece in the authentic visual tradition of De Stijl (The Style), circa 1917–1931. The composition features an asymmetrical grid of thick, black horizontal and vertical lines. On the left, organic, hand-stippled emerald green textures represent a complex ecosystem. As the eye moves right, the organic texture is systematically replaced by rigid, primary-white geometric cells and perfect circles. The color palette is restricted to Malachite Green, Zinc White, and deep Coal Black. The line quality is precise but shows a slight painterly texture consistent with oil on canvas. No diagonal lines, no gradients, no text, no labels.",
+  "model": "DALL-E 3 via OpenAI / Banana (Gemini Imagen)",
+  "concept": "Data Fragmentation",
+  "tradition_name": "De Stijl (The Style)",
+  "tradition_period": "1917–1931",
+  "tradition_approach": "Targets Neo-Plasticism's 'pure plastic' grammar: using a rigid orthogonal black grid to represent the reduction of organic complexity into mathematical units, utilizing flat color planes and asymmetrical balance to show systemic shifts.",
+  "publish_email": true
+}
